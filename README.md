@@ -1,18 +1,7 @@
-http=a1.ap.fastqvpn.com:29980, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连HK🇭🇰
+shadowsocks=116.163.10.28:56000, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, fast-open=false, udp-relay=false, tag=🇺🇸USA
 
-http=ap1-jp.er3.xyz:29985, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连JP🇯🇵
+shadowsocks=38.143.9.65:60000, method=none, password=banana007, ssr-protocol=auth_chain_a, fast-open=false, udp-relay=false, tag=🇺🇸USA
 
-http=ap1-us.er3.xyz:29988, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连US🇺🇸
+shadowsocks=116.163.10.28:56000, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, fast-open=false, udp-relay=false, tag=🇯🇵JP
 
-http=ap1-sg.er3.xyz:29986, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连GS🇸🇬
-
-http=ap1-uk.er3.xyz:29987, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连GB🇬🇧
-
-http=a1.er3.xyz:29980, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连GS🇸🇬
-
-http=ap1-ge.er3.xyz:29984, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连DE🇩🇪
-
-http=ap1-ca.er3.xyz:29983, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连CA🇨🇦
-
-http=ap1-au.er3.xyz:29982, username=410212399086305280, password=4d2f9e44-594a-4a76-9e01-37b2f3edc308, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=一键连AU🇦🇺
-
+shadowsocks=103.117.103.40:60000, method=none, password=banana007, ssr-protocol=auth_chain_a, fast-open=false, udp-relay=false, tag=🇭🇰HK
